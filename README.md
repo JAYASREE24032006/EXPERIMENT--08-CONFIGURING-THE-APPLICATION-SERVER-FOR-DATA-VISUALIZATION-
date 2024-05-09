@@ -1,8 +1,15 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+# EX-08 CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+
+### DATE : 22.04.2024
  
-## Aim: To  configure  the Application server and visualize the data on the dashboard 
-## Components required: Iot application server 
+## Aim : 
+
+To  configure  the Application server and visualize the data on the dashboard 
+## Components required : 
+
+Iot application server 
 ## Theory :
+
  An application server is a modern form of platform middleware. It is system software that resides between the operating system (OS) on one side, the external resources (such as a database management system [DBMS], communications and Internet services) on another side and the users’ applications on the third side. The function of the application server is to act as host (or container) for the user’s business logic while facilitating access to and performance of the business application. The application server must perform despite the variable and competing traffic of client requests, hardware and software failures, the distributed nature of the larger-scale applications, and potential heterogeneity of data and processing resources required to fulfill the business requirements of the applications.
 
 A high-end online-transaction-processing-style application server delivers business applications with guaranteed levels of performance, availability and integrity. An application server also supports multiple application design patterns, according to the nature of the business application and the practices in the particular industry for which the application has been designed. It typically supports multiple programming languages and deployment platforms, although most have a particular affinity to one or two of these. Some application servers that implement standard application interfaces and protocols, such as Java Enterprise Edition (Java EE), are entirely proprietary. At present, the proprietary application servers are typically built into OSs, packaged applications, such as portals and e-commerce solutions, or other products and are not offered as stand-alone products. Proprietary and Java EE-compliant application servers are estimated in our Market Share and Forecast reports.
@@ -27,7 +34,7 @@ As the application server market matures, high performance becomes a stronger cr
 8. save to update the visualization on the dashboard as shown in the output 
 
 
-## OUTPUT 
+## OUTPUT :
 
 
  ![Screenshot 2024-05-09 131802](https://github.com/JAYASREE24032006/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/144360800/07bcc04c-3ef1-4b09-a963-56f3ce92d860)
@@ -37,6 +44,6 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 
-## Results: 
+## Results : 
 
   The Application  server and network server data is add on the data dashboard using visualiztion editor 
